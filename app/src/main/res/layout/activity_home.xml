@@ -6,7 +6,7 @@
     android:orientation="vertical"
     android:padding="32dp"
     android:gravity="center"
-    android:background="#FFFFFF">
+    android:background="#E8CA6C">
 
     <TextView
         android:id="@+id/login_status_text"
